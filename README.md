@@ -64,9 +64,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or issues, please feel free to reach out to me.
 
-- Name:[robert owino]
-- GitHub: [(https://github.com/robert-owino)]
-- Email: [robertowyno@gmail.com]
+- Name:robert owino
+- GitHub: https://github.com/robert-owino
+- Email: robertowyno@gmail.com
 
 
 
